@@ -30,11 +30,11 @@ In this assignment, I create a burger logger with MySQL, Node, Express, Handleba
 Once the files are set up, we need to create the connection among them.
 
 
-## Link to employee-management-system on GitHub
+## Link to burger-for-life on GitHub:
 
-https://github.com/iamha1/employee-management-system
+https://github.com/iamha1/burger-for-life
 
-## Link on Heroku
+## Link on Heroku: 
 http://peaceful-ravine-27804.herokuapp.com/
 │
 
