@@ -2,7 +2,7 @@
 Burger for Life! is a restaurant app that lets users input the names of burgers they'd like to eat.
 
 ## Demonstration:
-![burgerforlife](views/jpg/burgerpic.jpg)
+![burgerforlife](views/jpg/burger_devoured.jpg)
 
 ## Installation: 
 - Run `npm install`
