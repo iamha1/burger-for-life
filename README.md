@@ -15,6 +15,10 @@ Burger for Life! is a restaurant app that lets users input the names of burgers 
 
 In this assignment, I create a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM (yum!). I also follow the MVC design pattern; use Node and MySQL to query and route data in your app, and Handlebars to generate your HTML.
 
+## Lisence:
+
+MIT
+
 ## Create a MVC file structure: 
 
 - 1: Config (connection.js and orm.js)
