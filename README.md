@@ -1,5 +1,5 @@
 # burger-for-life
-Burger for Life! is a restaurant app that lets users input the names of burgers they'd like to eat.
+Burger for Life! is a restaurant app that lets users put in the names of burgers they'd like to eat as well as create new ones.
 
 ## Demonstration:
 ![burgerforlife](views/jpg/burger_devoured.jpg)
